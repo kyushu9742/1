@@ -1,5 +1,4 @@
 <html>
-<h1>Kyushuのページ</h1>
-<h2>サイト集 (仮)
-<h2>この先は制作中… <img src![Coming soon]="">
+<h1>Kyushuのページ(制作途中)</h1>
+<h2>HTML勉強中…
 
